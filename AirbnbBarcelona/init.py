@@ -16,7 +16,7 @@ id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,r
 
 """
 listing = pd.read_csv('datasets/listings.csv')
-lista=listing.head(4).values[:,6:8].tolist()
+lista = listing.head(4).values[:,6:8].tolist()
 print("listing normal:")
 print(lista)
 
