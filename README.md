@@ -1,7 +1,9 @@
 # Data-Science
 
 ## AirbnbBarcelona (v1.0)
-Show data obtained from insideairbnb.com using some matplotlib figures and [gmaps library from pbugnion](https://github.com/pbugnion/gmaps). Additionaly there are some filters in order to filter by price and/or license.
+Show data obtained from [insideairbnb.com](http://insideairbnb.com) using some matplotlib figures and [gmaps library from pbugnion](https://github.com/pbugnion/gmaps). Additionaly there are some filters in order to filter by price and/or license.
+
+- [Jupyter Notebook](AirbnbBarcelona/jupyter/Airbnb_Maps.ipynb) with all avaiable code.
 
 ### Things to do
 - To group "minimun_nights" pie chart in order to avoid overlapping text.
