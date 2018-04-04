@@ -6,7 +6,7 @@ Show data obtained from [insideairbnb.com](http://insideairbnb.com) using some m
 - [Jupyter Notebook](AirbnbBarcelona/jupyter/Airbnb_Maps.ipynb) with all avaiable code.
 
 ### Things to do
-- To group "minimun_nights" pie chart in order to avoid overlapping text.
+- To group "minimum_nights" pie chart in order to avoid overlapping text.
 - Avoid ```divide by zero RuntimeWarning```, [bug reported](https://github.com/matplotlib/matplotlib/issues/8534).
 - Show color from colorbar correctly when license filter applied (it's showing like empty bar instead of full bar).
 
