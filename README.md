@@ -1,4 +1,4 @@
-# AirbnbBarcelona (v1.0)
+# AirbnbBarcelona
 Show data obtained from [insideairbnb.com](http://insideairbnb.com) using some matplotlib figures and [gmaps library from pbugnion](https://github.com/pbugnion/gmaps). Additionaly there are some filters in order to filter by price and/or license.
 
 - [Jupyter Notebook](AirbnbBarcelona/jupyter/Airbnb_Maps.ipynb) with all available code.
